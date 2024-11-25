@@ -62,17 +62,17 @@ Built a system to detect network vulnerabilities using **NMAP** and **Threading*
 ---
 
 ## 🔧 **Technologies & Tools I Use**
-Here are some of the tools I use in my daily development:
 
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
-![React](https://img.shields.io/badge/React-17.0-blue?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)
-![Node.js](https://img.shields.io/badge/Node.js-16.0-green?style=flat&logo=node.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat&logo=python)
+[![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-17.0-blue?style=flat&logo=react)](https://reactjs.org/)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)](https://www.w3.org/Style/CSS/)
+[![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)](https://www.w3.org/html/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-16.0-green?style=flat&logo=node.js)](https://nodejs.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat&logo=python)](https://en.wikipedia.org/wiki/Machine_learning)
+
 
 
 ---
