@@ -8,9 +8,8 @@ Welcome to my GitHub portfolio! I'm Aarohi, a **B.Tech CSE** student at **Graphi
 I work with a variety of technologies and tools in my development and machine learning projects:
 
 - **Languages**: C++, Python, JavaScript, SQL
-- **Frontend**: HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS
-- **Backend**: Node.js, Express.js, Django
-- **Databases**: MySQL, MongoDB, Firebase
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Databases**: MySQL
 - **Tools**: Git, Cypress, Docker, VS Code, Postman
 - **Machine Learning**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn
 
