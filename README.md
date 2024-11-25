@@ -1,35 +1,87 @@
-## Hi there 👋
-🔭 I’m currently working on...
-Building cutting-edge projects with React, exploring machine learning models, and optimizing full-stack web apps. 🚀
+# 🚀 **Aarohi Sinha's Tech Portfolio**
 
-🌱 I’m currently learning...
-Diving deep into cloud technologies, advanced JavaScript features, and the latest in AI/ML to push the boundaries of what I can create. ☁️🤖
+Welcome to my GitHub portfolio! I'm Aarohi, a **B.Tech CSE** student at **Graphic Era University**, with a passion for **Full-Stack Development**, **Machine Learning**, and **Automation**. Here, you can find a showcase of my projects, achievements, and tech skills that I've acquired throughout my journey.
 
-👯 I’m looking to collaborate on...
-Innovative web apps, AI-powered solutions, and open-source projects that focus on scalability, performance, and user experience. 💻🔧
+---
 
-🤔 I’m looking for help with...
-Advanced data structures and algorithms for more efficient problem-solving and enhancing my backend skills. 🧠
+## 💻 **Tech Stack**
+I work with a variety of technologies and tools in my development and machine learning projects:
 
-💬 Ask me about...
-Frontend development, React.js, web performance optimization, or how to make your code more maintainable and scalable. 📈
+- **Languages**: C++, Python, JavaScript, SQL
+- **Frontend**: HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS
+- **Backend**: Node.js, Express.js, Django
+- **Databases**: MySQL, MongoDB, Firebase
+- **Tools**: Git, Cypress, Docker, VS Code, Postman
+- **Machine Learning**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn
 
-📫 How to reach me:
-Feel free to drop me a message on LinkedIn: [https://www.linkedin.com/in/aarohi-sinha-bb4030217/]. Let’s connect! 💬
+---
 
-⚡ Fun fact:
-I’ve built projects that engage users, from real-time weather apps to personalized music recommender systems. Oh, and I once built a face mask recognition system that worked in real-time. 🕶️
-<!--
-**techaaro/techaaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 **Achievements**
+- **HackFest’24**: Secured **Top 20** ranking out of 200 teams at **IIT (ISM) Dhanbad**.
+- **Research Contributions**: Contributed to **2 research papers** on **Machine Learning**, published in **prestigious journals**.
+- **ClearTax Internship**: Successfully automated **10,000+ test cases** for frontend UI, improving code stability by **30%**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 **Key Projects**
+
+### 🌱 **EcoScan: Clothing Detection & Carbon Footprint Analysis**
+*Streamlit, YOLOv8, Python, OpenCV, Pandas, NumPy*
+
+A web app to detect clothing and calculate its **carbon footprint**. Developed with YOLOv8 for object detection and **Streamlit** for a clean, user-friendly interface.
+
+- **Key Features**: Real-time detection, sustainability insights, eco-friendly practices.
+- **Results**: Increased user engagement by **30%** within the first two months.
+
+---
+
+### 🌦️ **Weather Web: Real-time Weather Updates**
+*HTML, CSS, JavaScript, REST APIs*
+
+Developed a real-time weather app integrating various weather APIs for accurate data and enhanced user experience.
+
+- **Key Features**: Real-time weather data, performance optimization, responsive design.
+- **Results**: Increased **user engagement by 40%** and **daily active users** by 15%.
+
+---
+
+### 🔍 **Port Scanner: Network Vulnerability Detection**
+*Python, NMAP, Threading, Network Security Tools*
+
+Built a system to detect network vulnerabilities using **NMAP** and **Threading** for faster scanning and automation.
+
+- **Key Features**: Vulnerability scanning, real-time threat detection, automated security checks.
+- **Results**: Reduced security incidents by **50%**, improved scanning speed by **30%**.
+
+---
+
+## 🌱 **Learning Goals & Areas of Focus**
+- Mastering **Machine Learning** and **Deep Learning** techniques.
+- Expanding knowledge in **Cloud Computing** and **DevOps** tools.
+- Exploring **Blockchain Development** and **Smart Contracts**.
+
+---
+
+## 🔧 **Technologies & Tools I Use**
+Here are some of the tools I use in my daily development:
+
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![React](https://img.shields.io/badge/React-17.0-blue?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-16.0-green?style=flat&logo=node.js)
+
+---
+
+## 🌟 **Connect with Me**
+Feel free to reach out if you're interested in collaboration or just want to chat about tech!
+
+- 📧 Email: [aarohisinha03@gmail.com](mailto:aarohisinha03@gmail.com)
+- 🔗 LinkedIn: [Aarohi Sinha](https://www.linkedin.com/in/aarohi-sinha-bb4030217/)
+- 🔗 GitHub: [@techaaro](https://github.com/techaaro)
+
+---
+
+## 📈 **My GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techaaro&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
