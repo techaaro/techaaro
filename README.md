@@ -1,4 +1,4 @@
-# 🚀 **Aarohi Sinha's Tech Portfolio**
+# 🚀 **Hey There!!**
 
 Welcome to my GitHub portfolio! I'm Aarohi, a **B.Tech CSE** student at **Graphic Era University**, with a passion for **Full-Stack Development**, **Machine Learning**, and **Automation**. Here, you can find a showcase of my projects, achievements, and tech skills that I've acquired throughout my journey.
 
@@ -70,6 +70,11 @@ Here are some of the tools I use in my daily development:
 ![React](https://img.shields.io/badge/React-17.0-blue?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)
 ![Node.js](https://img.shields.io/badge/Node.js-16.0-green?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat&logo=python)
+
 
 ---
 
