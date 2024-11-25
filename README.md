@@ -1,5 +1,24 @@
 ## Hi there 👋
+🔭 I’m currently working on...
+Building cutting-edge projects with React, exploring machine learning models, and optimizing full-stack web apps. 🚀
 
+🌱 I’m currently learning...
+Diving deep into cloud technologies, advanced JavaScript features, and the latest in AI/ML to push the boundaries of what I can create. ☁️🤖
+
+👯 I’m looking to collaborate on...
+Innovative web apps, AI-powered solutions, and open-source projects that focus on scalability, performance, and user experience. 💻🔧
+
+🤔 I’m looking for help with...
+Advanced data structures and algorithms for more efficient problem-solving and enhancing my backend skills. 🧠
+
+💬 Ask me about...
+Frontend development, React.js, web performance optimization, or how to make your code more maintainable and scalable. 📈
+
+📫 How to reach me:
+Feel free to drop me a message on LinkedIn: [https://www.linkedin.com/in/aarohi-sinha-bb4030217/]. Let’s connect! 💬
+
+⚡ Fun fact:
+I’ve built projects that engage users, from real-time weather apps to personalized music recommender systems. Oh, and I once built a face mask recognition system that worked in real-time. 🕶️
 <!--
 **techaaro/techaaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
