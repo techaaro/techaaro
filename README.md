@@ -22,38 +22,6 @@ I work with a variety of technologies and tools in my development and machine le
 
 ---
 
-## 📂 **Key Projects**
-
-### 🌱 **EcoScan: Clothing Detection & Carbon Footprint Analysis**
-*Streamlit, YOLOv8, Python, OpenCV, Pandas, NumPy*
-
-A web app to detect clothing and calculate its **carbon footprint**. Developed with YOLOv8 for object detection and **Streamlit** for a clean, user-friendly interface.
-
-- **Key Features**: Real-time detection, sustainability insights, eco-friendly practices.
-- **Results**: Increased user engagement by **30%** within the first two months.
-
----
-
-### 🌦️ **Weather Web: Real-time Weather Updates**
-*HTML, CSS, JavaScript, REST APIs*
-
-Developed a real-time weather app integrating various weather APIs for accurate data and enhanced user experience.
-
-- **Key Features**: Real-time weather data, performance optimization, responsive design.
-- **Results**: Increased **user engagement by 40%** and **daily active users** by 15%.
-
----
-
-### 🔍 **Port Scanner: Network Vulnerability Detection**
-*Python, NMAP, Threading, Network Security Tools*
-
-Built a system to detect network vulnerabilities using **NMAP** and **Threading** for faster scanning and automation.
-
-- **Key Features**: Vulnerability scanning, real-time threat detection, automated security checks.
-- **Results**: Reduced security incidents by **50%**, improved scanning speed by **30%**.
-
----
-
 ## 🌱 **Learning Goals & Areas of Focus**
 - Mastering **Machine Learning** and **Deep Learning** techniques.
 - Expanding knowledge in **Cloud Computing** and **DevOps** tools.
