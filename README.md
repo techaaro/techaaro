@@ -1,14 +1,14 @@
 # 🚀 **Hey There!!**
 
-Welcome to my GitHub portfolio! I'm Aarohi, a **B.Tech CSE** student at **Graphic Era University**, with a passion for **Full-Stack Development**, **Machine Learning**, and **Automation**. Here, you can find a showcase of my projects, achievements, and tech skills that I've acquired throughout my journey.
+Welcome to my GitHub portfolio! I'm Aarohi, a **Software Developer** at **BNP Paribas Pvt. Ltd**, with a passion for **Full-Stack Development**, **Machine Learning**, and **Automation**. Here, you can find a showcase of my projects, achievements, and tech skills that I've acquired throughout my journey.
 
 ---
 
 ## 💻 **Tech Stack**
 I work with a variety of technologies and tools in my development and machine learning projects:
 
-- **Languages**: C++, Python, JavaScript, SQL
-- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Languages**: C++, Python, JavaScript, SQL,  .
+- **Frontend**: HTML, CSS, JavaScript,Angular, Typescript
 - **Databases**: MySQL
 - **Tools**: Git, Cypress, Docker, VS Code, Postman
 - **Machine Learning**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn
